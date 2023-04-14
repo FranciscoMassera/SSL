@@ -1,1 +1,2 @@
-
+Hola profe use el compilador MSYS2 Version: gcc.exe (Rev10, Built by …
+…MSYS2 project) 12.2.0
